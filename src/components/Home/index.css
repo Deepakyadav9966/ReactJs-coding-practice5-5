@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-container {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  background:linear-gradient( #2b2c49, #b5b9ff);
+  height:400px;
+  width:500px;
+  font-family:"roboto";
+  border-radius:10px;
+}
